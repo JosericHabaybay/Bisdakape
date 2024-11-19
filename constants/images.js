@@ -1,5 +1,5 @@
-import logo from "../assets/icons/logo.png";
-import textimage from "../assets/icons/textimage.png";
+import logo from "../assets/images/logo.png";
+import textimage from "../assets/images/textimage.png";
 
 export default {
  

@@ -19,14 +19,14 @@ Bisdake  App.
 * HTML, CSS and JS
   
 # Sign Up Screen
-<img src="assets/icons/signup.jpg">  
+<img src="assets/images/signup.jpg">  
 
 # login Screen
-<img src="assets/icons/signin.jpg">  
+<img src="assets/images/signin.jpg">  
 
 # Tabs Screen
-<img src="assets/icons/tabsscreen.jpg">
+<img src="assets/images/tabsscreen.jpg">
 
 # Home Screen
-<img src="assets/icons/homescreen.jpg">
+<img src="assets/images/homescreen.jpg">
   
